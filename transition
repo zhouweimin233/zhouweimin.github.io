@@ -1,0 +1,515 @@
+
+<html data-smart-underline-container-id="1"><!-- Global site tag (gtag.js) - Google Analytics --><head><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-108711030-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108711030-1');
+</script>
+
+<script src="https://use.typekit.net/yhy7fua.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i" rel="stylesheet">
+
+<link rel="stylesheet" href="./simple-tabs.css?id=1028">
+<link rel="stylesheet" href="standard.css">
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+
+</head><body>
+
+<div style="
+    background: #161729;
+    color: white;
+    padding: .5em;
+    font-weight: bold;
+    text-align: center;
+">
+    <div style="width: 980px; margin: auto;">
+</div>
+
+</div>
+
+
+
+<header style="
+    overflow: hidden;
+">
+<title>David Wood, University of Chicago</title>
+
+<!-- particles.js container -->
+
+<div id="particles-js" style="display: none;">
+	<canvas class="particles-js-canvas-el" width="1430" height="726" style="width: 100%; height: 100%;"></canvas></div>
+
+<div style="margin: auto; width: 980px;">
+<nav style="
+    position: relative;
+">
+<ul id="menu">
+<li><a href="./cv.pdf" onclick="ga('send', 'event', { eventCategory: 'page', eventAction: 'click', eventLabel: 'CV'});">CV</a></li>
+
+<li class="EN" style="float: right;"><a href="javascript:$('.EN').addClass('hidden');$('.CN').removeClass('hidden');" onclick="ga('send', 'event', { eventCategory: 'page', eventAction: 'click', eventLabel: 'Chinese'});">中文信息</a></li>
+<li class="CN hidden" style="float: right;"><a href="javascript:$('.CN').addClass('hidden');$('.EN').removeClass('hidden');" onclick="ga('send', 'event', { eventCategory: 'page', eventAction: 'click', eventLabel: 'English'});">English</a></li>
+
+</ul>
+</nav>
+
+    <div id="logo">
+    <div id="logo-wrap">
+    <div id="logo-wrap2">
+    <div id="logo-wrap3">
+        <img src="./img/wordmark.svg" width="220px" height="58.2px">
+    </div>
+    </div>
+    </div>
+    </div>
+
+        <img src="./img/dwood-key.png" style="
+    height: 300px;
+    margin-top: 0em;
+    float: right;
+    z-index: 9999!important;
+    position: relative;
+">
+</div>
+
+
+</header>
+<main class="EN">
+<div class="rowwrap" style="
+    width: 100%;
+    overflow: hidden;
+">
+<div class="bio read-more-wrap" style="
+    float: left;
+    width: 66.6%;
+    padding: 0 1em;
+">
+    <input type="checkbox" class="read-more-state" id="post-1">
+    <h2>Short Bio</h2>
+    <p>David Wood is a Ph.D. candidate at The University of Chicago, affiliated with the Econometrics and Statistics Area at Booth School of Business.  He works on formal aspects of time series with smooth interactive dynamics, emphasizing on integration with modern mathematics and physics methods.   As Einstein says, "Education is what remains after one has forgotten everything he learned in school":  David holds on to the tradition of viewing doctoral education as noble intellectual exploration with the aim of dialectical transcendence and the organic extension of his liberal arts education at The University of Chicago College. After completing the core curriculum at the Department of Economics in his first year, along continuous training in his home field of financial econometrics, David went on to finish the Ph.D. Mathematics Core (year-long sequences in Analysis, Algebra, and Geometry) and Ph.D. Physics Core (year-long sequences in Quantum Field Theory and String Theory) as well as dozens of specialized seminars in representation, harmonic, and field theories, a first in Chicago history, but faithful to its motto. </p>
+
+  <span class="read-more-target">
+<p>As the custodian to a real estate company in China, David transforms his business education at Booth into analytical leadership in the emerging market.  Under his management, the company won a landmark case at the Chinese Supreme Court and helped to redefine the property rights in China.  David is also the founder of a proprietary trading company specialized in oil futures along with two classmates at The University of Chicago College. </p>
+
+    <p>David grew up in a small city in the South China and his Chinese name is 吴小龙 (<a href="http://d.wood.ac/name/">pronunciation</a>).  David worked on his B.A. paper under the supervision of Prof Roger Myerson and graduated from the College with a B.A. in Economics. He is the first person in his family to attend college.  David plays the piano, with a repertoire of Baroque, Classical, and early-Romantic music.</p>
+</span>
+  <label for="post-1" class="read-more-trigger"></label>
+</div>
+<div class="contact" style="
+    padding: 0 1em;
+	padding-left: 0;
+    width: 33.3%;
+    float: left;
+">
+    <h2>Contact</h2>
+
+    Official Address:<br>
+    The University of Chicago<br>
+    Booth School of Business <br>
+    5807 South Woodlawn Avenue <br>
+    Chicago, IL 60637<br>
+    <br>
+        Office:  773 891-6411<br>
+           Email:  dwood@uchicago.edu <a class="read-more-trigger" href="https://pgp.mit.edu/pks/lookup?op=get&search=0x3BF09BDE10F88BC0"><i class="material-icons">vpn_key</i>Key</a><br>
+ Fingerprint: <code>3BF0 9BDE 10F8 8BC0</code>
+  <div class="read-more-target">
+    <h2>Read me</h2>
+    Some <a href="credo.txt">basics</a> that I take as facts of life.  It shows you who I am as an individual.  I'm flexible but unlikely to change over these in short time.
+  </div>
+</div>
+
+</div>
+
+<div id="mastertab" class="ui-mastertab ui-widget ui-widget-content ui-corner-all ui-mastertab-vertical ui-helper-clearfix ui-tabs">
+    <h2 style="
+    margin: 1em 0;
+">Other Completed Academic Work</h2>
+<ul class="col2-narrow-right gallery-index ui-mastertab-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all ui-tabs-nav" role="tablist">
+<li class="ui-state-default ui-corner-left ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="mastertab-1" aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true"><a href="#mastertab-1" class="ui-mastertab-anchor ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">
+K5: Hilbert-Huang Transform</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="mastertab-2" aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a href="#mastertab-2" class="ui-mastertab-anchor ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">K4: Yang–Mills Existence Problem</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="mastertab-3" aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a href="#mastertab-3" class="ui-mastertab-anchor ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">K3: Cross-Correlations in Returns</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="mastertab-4" aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a href="#mastertab-4" class="ui-mastertab-anchor ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">K2: Clustering-Based Strategies</a></li>
+<li class="ui-state-default ui-corner-left ui-mastertab-active" role="tab" tabindex="-1" aria-controls="mastertab-5" aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a href="#mastertab-5" class="ui-mastertab-anchor ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5">K1: Bayesian Vector Autoregression</a></li>
+
+</ul>
+<div id="mastertab-1" class="col2-wide-left gallery-content ui-mastertab-panel ui-widget-content ui-corner-bottom ui-tabs-panel" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false" style="display: block;">
+<h4>
+Mathematical Underpinnings of Hilbert-Huang Transform </h4>
+<div class="paper-abstract"><strong>Abstract.</strong> The Hilbert-Huang Transform (HHT) applies the Hilbert spectral analysis on a set of the intrinsic mode functions, obtained through the sifting process. Though the method has established itself as an empirically useful alternative to the Fourier Transform, the mathematical nature of the HHT is not well understood. Utilizing the harmonic theory, I describe and characterize the HHT methodology rigorously from the perspective of the Hilbert space.  In the process, I discuss the theoretical limits of the HHT method.
+<br>
+<a class="paper-link" href="http://home.uchicago.edu/dwood/pdf/K5CurrPaperHHT.pdf"><i class="material-icons">insert_drive_file</i>PDF</a>
+   </div>
+
+<div id="tabs" class="innertab ui-tabs ui-widget ui-widget-content ui-corner-all ui-tabs-vertical ui-helper-clearfix">
+<ul class="gallery-index ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs-1" aria-labelledby="ui-id-1" aria-selected="false" aria-expanded="false"><a href="#tabs-1" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">The intrinsic mode functions are obtained recursively through the empirical mode decomposition method. </a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs-2" aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a href="#tabs-2" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">The empirical mode decomposition method is also known as the sifting process.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs-3" aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a href="#tabs-3" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">The standard sifting process has unstable numerical features during the iterations.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs-4" aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a href="#tabs-4" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">We may declare convergence on the sifting process through some heuristic stoppage condition.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs-5" aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a href="#tabs-5" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5">But the formal convergence cannot be justified theoretically, as further iterations yield different converging results.</a></li>
+<li class="ui-state-default ui-corner-left ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="tabs-6" aria-labelledby="ui-id-6" aria-selected="true" aria-expanded="true"><a href="#tabs-6" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-6">We may use adaptive basis to correct the theoretical and numerical issues in the Hilbert-Huang Transform. </a></li>
+</ul>
+<div id="tabs-1" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k5/k5-figure-sifting.jpg">
+<div class="gallery-caption">Contrary to what the notation implies, there is no canonical way to form spline of a given degree.  A cubic (i.e., a order-3) spline is commonly used via the cubic B-spline and the cubic Bézier spline method.  Indeed, it remains an open question of the HHT research to determine the best among these spline methods.
+</div>
+</div>
+<div id="tabs-2" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k5/k5-figure-sifting2.jpg">
+<div class="gallery-caption">Since the HHT method is only performing the Hilbert spectrum analysis on the imf functions, it is essential to provide a precise definition of the imf and only then give a robust transform method to find the imf from a candidate function.
+</div>
+</div>
+<div id="tabs-3" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k5/k5-figure-feature.jpg">
+<div class="gallery-caption">The plot includes the first 100 iterations of the sifting algorithm.  The thick green line and the thick red line represent the starting curve and the ending curve, respectively.   Blue lines are the upper and the lower envelope splines and maroon lines are the imf candidate from each iteration, mostly covered by the envelope splines.  The thick yellow horizontal line plots out the zero line for reference.
+</div>
+</div>
+<div id="tabs-4" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k5/k5-figure-conv.jpg">
+<div class="gallery-caption">We notice the phenomenon of staged convergence, meaning for a prolonged period, we observe what seem to be a convergence in imf but continuing the sifting process yields a new imf curve.  All of these imf curves are supported by the proposed convergence statistics.
+</div>
+</div>
+<div id="tabs-5" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k5/k5-figure-conv2.jpg">
+<div class="gallery-caption"> We notice some chaotic behaviors of these measurements:  for example, the avalanche in terms of sudden increase in <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-12-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi mathvariant=&quot;normal&quot;>&amp;#x0394;</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-97" style="width: 1.279em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.82em; height: 0px;"><span style="position: absolute; clip: rect(1.381em 1000.77em 2.402em -999.997em); top: -2.244em; left: 0em;"><span class="mrow" id="MathJax-Span-98"><span class="mi" id="MathJax-Span-99" style="font-family: MathJax_Main;">Δ</span></span><span style="display: inline-block; width: 0px; height: 2.249em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.074em; border-left: 0px solid; width: 0px; height: 1.254em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-12">\Delta</script> after more than 1000 iterations in convergence and the numerical instability of the <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-13-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>N</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-100" style="width: 1.432em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.922em; height: 0px;"><span style="position: absolute; clip: rect(1.432em 1000.92em 2.402em -999.997em); top: -2.244em; left: 0em;"><span class="mrow" id="MathJax-Span-101"><span class="mi" id="MathJax-Span-102" style="font-family: MathJax_Math; font-style: italic;">N<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.105em;"></span></span></span><span style="display: inline-block; width: 0px; height: 2.249em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.074em; border-left: 0px solid; width: 0px; height: 1.176em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"></span></span><script type="math/tex" id="MathJax-Element-13">N</script>-number around Iteration #9000.
+</div>
+</div>
+<div id="tabs-6" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-6" role="tabpanel" aria-hidden="false" style="display: block;">
+<img src="http://d.wood.ac/img/figures/k5/k5-fourier.jpg">
+<div class="gallery-caption">Classical Fourier transforms are performed using the standard orthonormal basis.  We may revise the Hilbert-Huang Transform by first estimating the metrics of the space and then proposing corresponding adaptive basis.
+</div>
+</div>
+</div>
+<script>
+  $(function() {
+    $( "#tabs" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+    $( "#tabs li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+  });
+</script>
+</div>
+
+<div id="mastertab-2" class="col2-wide-left gallery-content ui-mastertab-panel ui-widget-content ui-corner-bottom ui-tabs-panel" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true" style="display: none;">
+<h4>
+The Yang–Mills Existence and Mass Gap Problem</h4>
+<div class="paper-abstract" style="
+    width: 66.6%;
+"><b>Summary.</b> Since the close form characterizations of a Yang-Mills theory on a non-compact 4-dimensional space seem unlikely, the efforts of the past half-century focus on producing converging sequences of approximations to the desired QFT: this implicit strategy explains the overall framing of the problem in terms of functional analysis. I argue the bare-bone axioms established through analysis are useful to flash out the theoretical features desired, to truly encounter the problem, we need to develop new local geometries compatible with these axiomatic features. To accomplish this, I first give a quick review of what we have learned from the Standard Model. The elementary QCD phenomenology seems to provide adequate motivation to the problem. I then sketch out the classical gauge theory with the language of algebraic geometry. In the last parts, I first introduce the axiomatic properties required by the problem and then reflect on our strategies to study the problem further as a beginner.
+<br>
+<a class="paper-link" href="http://home.uchicago.edu/dwood/pdf/K4YangMills.pdf"><i class="material-icons">insert_drive_file</i>PDF</a>
+</div>
+</div>
+
+
+<div id="mastertab-3" class="col2-wide-left gallery-content ui-mastertab-panel ui-widget-content ui-corner-bottom ui-tabs-panel" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true" style="display: none;">
+<h4>
+Time-Varying Cross-Correlations in Stock Returns</h4>
+<div class="paper-abstract"><b>Abstract.</b> By Sharpe (1964) and Lintner's (1965) Capital Asset Pricing Model (CAPM), stock returns are correlated with the market returns.  As a consequence, there must be nontrivial correlation structures among stock returns.  I study the cross-correlations in stock returns over time.  Using S&amp;P 500 stocks as an example, I show existing conditional heteroscedasticity models fail due to high dimensionality and the inclusion of the financial crisis period of the 2008, characterized by irregular price movements.  I develop new statistical tools to study the time-varying patterns of cross-correlations in stock returns.  I use these tools to demonstrate structural changes to industry correlations and market correlations during the financial crisis.
+<br>
+<a class="paper-link" href="http://home.uchicago.edu/dwood/pdf/K3StockReturns.pdf"><i class="material-icons">insert_drive_file</i>PDF</a>
+</div>
+<div id="tabs2" class="text-secondary innertab ui-tabs ui-widget ui-widget-content ui-corner-all ui-tabs-vertical ui-helper-clearfix">
+<ul class="gallery-index ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs2-1" aria-labelledby="ui-id-1" aria-selected="false" aria-expanded="false"><a href="#tabs2-1" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">We need to first choose a suitable rolling period for time series of stock returns.</a></li>
+<li class="ui-state-default ui-corner-left ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="tabs2-2" aria-labelledby="ui-id-2" aria-selected="true" aria-expanded="true"><a href="#tabs2-2" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">Correlation distributions along time form smooth correlation density surfaces.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs2-3" aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a href="#tabs2-3" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">We take correlation differences to visually compare density surfaces of different industries.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs2-4" aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a href="#tabs2-4" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">Introduce a grid system to compare correlation differences of major industries.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs2-5" aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a href="#tabs2-5" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5">Use a similar grid system to compare industry means and widths of correlation distributions for major industries. </a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs2-6" aria-labelledby="ui-id-6" aria-selected="false" aria-expanded="false"><a href="#tabs2-6" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-6">We may glue correlation planes of sample industries together to study the propagation of industry correlations.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs2-7" aria-labelledby="ui-id-7" aria-selected="false" aria-expanded="false"><a href="#tabs2-7" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-7">The glued correlation plane after the described procedures.</a></li>
+<li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs2-8" aria-labelledby="ui-id-8" aria-selected="false" aria-expanded="false"><a href="#tabs2-8" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-8">Embed the glued correlation plane into the market correlation plane.</a></li>
+</ul>
+<div id="tabs2-1" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true" style="display: none;"><img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_a.jpg"><img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_b.jpg">
+<div class="gallery-caption">The first difficulty in the study of rolling correlations is the choice of lagged period.  Fitting a VAR model on the correlation matrix is an obvious choice.  However, since the correlation is a <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>n</mi><mo>&amp;#x00D7;</mo><mi>n</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-12" style="width: 3.554em; display: inline-block;"><span style="display: inline-block;position: relative;width: 2.421em;height: 0px;/* font-size: 146%; */"><span style="position: absolute; clip: rect(1.515em 1002.4em 2.421em -999.971em); top: -2.187em; left: 0em;"><span class="mrow" id="MathJax-Span-13"><span class="mi" id="MathJax-Span-14" style="font-family: MathJax_Math; font-style: italic;">n</span><span class="mo" id="MathJax-Span-15" style="font-family: MathJax_Main; padding-left: 0.23em;">×</span><span class="mi" id="MathJax-Span-16" style="font-family: MathJax_Math; font-style: italic; padding-left: 0.23em;">n</span></span><span style="display: inline-block; width: 0px; height: 2.195em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.105em; border-left: 0px solid; width: 0px; height: 0.998em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-2">n\times n</script> matrix, even though it's symmetric with identity diagonal elements, the number of variables is too big to obtain a good estimate.  A time series tracking the same element of the rolling correlation matrix.  Stacking these series spatially yields a bunch of rolling correlation series.  </div>
+</div>
+<div id="tabs2-2" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="false" style="display: block;">
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_c.jpg">
+<div class="gallery-caption">We may form a smooth surface of empirical correlation densities by arranging density curves along <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-3-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>T</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-17" style="width: 1.024em; display: inline-block;"><span style="display: inline-block;position: relative;width: 0.666em;height: 0px;/* font-size: 153%; */"><span style="position: absolute; clip: rect(1.432em 1000.67em 2.402em -999.997em); top: -2.244em; left: 0em;"><span class="mrow" id="MathJax-Span-18"><span class="mi" id="MathJax-Span-19" style="font-family: MathJax_Math; font-style: italic;">T<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.105em;"></span></span></span><span style="display: inline-block; width: 0px; height: 2.249em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.074em; border-left: 0px solid; width: 0px; height: 1.176em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-3">T</script> and connecting such slices with smooth surfaces.  We mark in red the mean correlation along time as well as center 60% to roughly indicate how widely the correlation is distributed along time.  </div>
+</div>
+<div id="tabs2-3" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_d_rev.jpg">
+<div class="gallery-caption">To compensate for the disadvantage of unable to track individual stocks, we partition the market into industries and obtain the density for each industry. Even though we cannot track stocks of any industry, we can nevertheless distinguish industries.  Piecing together industry-level density surfaces reveals more granular structures of market correlations.
+</div>
+</div>
+<div id="tabs2-4" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_e-copy.jpg">
+<div class="gallery-caption">We introduce a grid system to encode the large amount of information.  The horizontal lines indicate time with market returns on the right in magenta for reference.  The vertical lines denote correlation levels.
+</div>
+</div>
+<div id="tabs2-5" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_f.jpg">
+<div class="gallery-caption">A similar grid is used, as before.  Since mean correlations are empirically positive, only levels of 0, 0.5 and 1 are indicated.  The grays are width of the center 90% quantiles and the industry cumulative difference is the absolute sum of the four widths for the industries.
+</div>
+</div>
+<div id="tabs2-6" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-6" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_g_rev.jpg">
+<div class="gallery-caption">We may glue together the correlation planes by identifying adjacent edges are different correlation planes.  Repeat for all industries to analyze the market-wide structure.
+</div>
+</div>
+<div id="tabs2-7" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_h.jpg"><br>
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_i.jpg">
+<div class="gallery-caption">There are several desirable features of the glued plane.  First, we see propagation of correlation uncertainties from comparing the edges of segments glued together.  Second, we see clearly the contraction and expansion of the correlation structure across time.  Third, we gain the insight of how the continuous changes to the correlation structure throughout time. Zoom in the twisted region during the Crisis and give an account of how each industry responds to the market meltdown.</div>
+</div>
+<div id="tabs2-8" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-8" role="tabpanel" aria-hidden="true" style="display: none;">
+<img src="http://d.wood.ac/img/figures/k3/k3-figure-ap_rolling_j.jpg">
+<div class="gallery-caption">We may embed the glued correlation plane into the market correlation plane by identifying the central line of two planes.  This shows how the overall market is acting on the submarket formed by the four industries, or equivalently, how the submarket responds to market turbulences. </div>
+</div>
+
+<script>
+  $(function() {
+    $( "#tabs2" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+    $( "#tabs2 li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+  });
+</script>
+</div>
+
+
+</div>
+
+
+<div id="mastertab-4" class="col2-wide-left gallery-content ui-mastertab-panel ui-widget-content ui-corner-bottom ui-tabs-panel" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true" style="display: none;">
+<h4>
+Towards Clustering-Based Trading Strategies</h4>
+<div class="paper-abstract"><b>Abstract.</b> I experiment with a new trading strategy based on dynamic affinity propagation clustering. I empirically evaluate the strategy with intraday data of 140 most actively traded stocks in the summer against two benchmarks; trading stocks individually and trading stocks based on static industry blocks.  Dynamic clustering increases accumulative trading profit by 35.4% and 5.6%, comparing to the two benchmarks respectively, while decreasing the standard deviation of daily P&amp;Ls by 10.3% and 20.8% respectively.
+<br>
+ <a class="paper-link" href="http://home.uchicago.edu/dwood/pdf/K2Clustering.pdf"><i class="material-icons">insert_drive_file</i>PDF</a>
+ </div>
+ <div id="tabs3" class="text-secondary innertab ui-tabs ui-widget ui-widget-content ui-corner-all ui-tabs-vertical ui-helper-clearfix">
+ <ul class="gallery-index ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+ <li class="ui-state-default ui-tabs-active ui-state-active ui-corner-left" role="tab" tabindex="0" aria-controls="tabs3-1" aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true"><a href="#tabs3-1" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">Financial instruments, take different stocks for example, naturally move in time as clusters. </a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs3-2" aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a href="#tabs3-2" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">Even when industry groups are exogenously provided, static clustering based on these groups is not effective for some industries.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs3-3" aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a href="#tabs3-3" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">Sparklines of all stocks tracked demonstrate the diversity and periods of similarity in patterns.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs3-4" aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a href="#tabs3-4" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">We can use clustering algorithms, say affinity propagation, to dynamically cluster stock prices.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs3-5" aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a href="#tabs3-5" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5">The classification becomes more dynamic if we rescale stock prices and cluster based on proportional movements.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs3-6" aria-labelledby="ui-id-6" aria-selected="false" aria-expanded="false"><a href="#tabs3-6" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-6">Now break down the wins and losses of each strategy.  </a></li>
+ </ul>
+ <div id="tabs3-1" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false">
+ <img src="http://d.wood.ac/img/figures/k2/k2-figure-clusters.jpg">
+ <div class="gallery-caption">Each stock is drawn in black with 10% alpha.  All values are reshaped to same scale.  Regional legislative changes affect stocks closely connected to that geographic location. Shocks to supply and demand always move stocks of certain industries. Dynamic clustering of streamed high frequency financial time series could perhaps explore these patterns..
+ </div>
+ </div>
+ <div id="tabs3-2" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k2/k2-figure-ghost-map.jpg">
+ <div class="gallery-caption">From top to bottom we could see three different clustering styles based on industry groups. The top panel uses internet and retails as example and shows some industries have divergent tendencies, that is, companies within such industries do not form narrow industry-level time lines but instead exhibit different trends individually.
+ </div>
+ </div>
+ <div id="tabs3-3" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k2/k2-figure-sparklines.jpg">
+ <div class="gallery-caption">The weekly sparklines for all stocks tracked:  one is able to see the weekly pattern of each stock clearly and glean an intuitive understanding of the task at hand.
+ </div>
+ </div>
+ <div id="tabs3-4" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k2/k2-figure-classifcations.jpg">
+ <div class="gallery-caption">Top panel shows first 70 stocks tracked; bottom panel shows the rest. The numbers to the right of the bottom panel are total numbers of clusters for the 20 trading days in July, 2012.
+ </div>
+ </div>
+ <div id="tabs3-5" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k2/k2-figure-classification2.jpg">
+ <div class="gallery-caption">Scaling introduces mor variations to the clustering algorithm.  Top panel shows first 70 stocks tracked; bottom panel shows the rest. The numbers to the right of the bottom panel are total numbers of clusters for the 20 trading days in July, 2012.
+ </div>
+ </div>
+ <div id="tabs3-6" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-6" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k2/k2-figure-pl.jpg">
+ <div class="gallery-caption">Colored blocks are stocks yields profits on a day.  Red: Benchmark 1, no clustering; Blue:  Benchmark 2, static clustering by industry; Black:  dynamic clustering via affinity propagation.
+ </div>
+ </div>
+ </div>
+ <script>
+   $(function() {
+     $( "#tabs3" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+     $( "#tabs3 li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+   });
+ </script>
+ </div>
+
+
+<div id="mastertab-5" class="col2-wide-left gallery-content ui-mastertab-panel ui-widget-content ui-corner-bottom ui-tabs-panel" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none;">
+<h4>
+Bayesian Vector Autoregression: Evaluation of Minnesota Prior</h4>
+
+<div class="paper-abstract">
+<b>Abstract.</b> Bayesian VAR method provides a comprehensive framework to think about the VAR models but is vulnerable to misuse.  I make the argument both analytically and experimentally by example of the Minnesota prior, in response to Sims’ critique of the identification problem in econometrics.
+<br>
+ <a class="paper-link" href="http://home.uchicago.edu/dwood/pdf/K1BayesianVAR.pdf"><i class="material-icons">insert_drive_file</i>PDF</a>
+ </div>
+
+ <div id="tabs4" class="text-secondary innertab ui-tabs ui-widget ui-widget-content ui-corner-all ui-tabs-vertical ui-helper-clearfix">
+ <ul class="gallery-index ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+ <li class="ui-state-default ui-tabs-active ui-state-active ui-corner-left" role="tab" tabindex="0" aria-controls="tabs4-1" aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true"><a href="#tabs4-1" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">We experiment on a simulated dataset with weak correlations. </a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs4-2" aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a href="#tabs4-2" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">Generate elements of the correlation matrices from the Minnesota Prior.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs4-3" aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a href="#tabs4-3" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">Analyze the distributional aspects of the draws.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs4-4" aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a href="#tabs4-4" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">Explore the element-wise correlation of the draws from the priors.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs4-5" aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a href="#tabs4-5" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5">Continue with the same set of prior but instead plot graphs from<br>
+ the posterior.</a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs4-6" aria-labelledby="ui-id-6" aria-selected="false" aria-expanded="false"><a href="#tabs4-6" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-6">Do the same for the correlation matrices of the later lags.  </a></li>
+ <li class="ui-state-default ui-corner-left" role="tab" tabindex="-1" aria-controls="tabs4-7" aria-labelledby="ui-id-7" aria-selected="false" aria-expanded="false"><a href="#tabs4-7" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-7">Introduce a method of model comparison based on out-of-sample mean squared forecast errors.  </a></li>
+ </ul>
+ <div id="tabs4-1" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false">
+ <img src="http://d.wood.ac/img/figures/k1/k1-figure-toy-example.jpg">
+ <div class="gallery-caption">Except for the moderate correlation between the first and the forth components, it is not immediately how are the terms interacting with one another. All components are stationary among different means. There are no strong trends, so think these as time series vector after taking out the trends.
+ </div>
+ </div>
+ <div id="tabs4-2" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k1/k1-figure-priors.jpg">
+ <div class="gallery-caption">This plots the time series of all 16 elements of the first-lag coefficient<br>
+ matrix. The upper panel plots draws from the prior distribution and the lower<br>
+ panel shows those from the posterior.
+ </div>
+ </div>
+ <div id="tabs4-3" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k1/k1-figure-histograms.jpg">
+ <div class="gallery-caption">The histogram of each element of the first-lag coefficient matrix of draws from the prior distribution. We have just described the sporadic extreme values of draws from the prior distribution.
+ </div>
+ </div>
+ <div id="tabs4-4" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k1/k1-figure-flat-prior.jpg">
+ <div class="gallery-caption">This figure presents the pair-wise scatter plots of all elements in the first-lag coefficient matrix. By the Minnesota prior structure, these are no a prior correlation between elements; this explains the spherical shape for all plots.
+ </div>
+ </div>
+ <div id="tabs4-5" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k1/k1-figure-post.jpg">
+ <div class="gallery-caption"> Any smaller value of the tightness factor, <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-5-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>&amp;#x03BB;</mi></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-38" style="width: 0.871em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.564em; height: 0px; font-size: 153%;"><span style="position: absolute; clip: rect(1.381em 1000.51em 2.402em -999.997em); top: -2.244em; left: 0em;"><span class="mrow" id="MathJax-Span-39"><span class="mi" id="MathJax-Span-40" style="font-family: MathJax_Math; font-style: italic;">λ</span></span><span style="display: inline-block; width: 0px; height: 2.249em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.074em; border-left: 0px solid; width: 0px; height: 1.254em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>λ</mi></math></span></span><script type="math/tex" id="MathJax-Element-5">\lambda</script>, will tweak the posterior to resemble more of the the prior. In practice, the factor is a tuning parameter and there are numerous article guiding the selection of its vlaues, see Table 2 for more details.
+ </div>
+ </div>
+ <div id="tabs4-6" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-6" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k1/k1-figure-post-correlation.jpg">
+ <div class="gallery-caption">The upper triangle plots the element-wise correlation of the second-lag. The lower triangle plots that for the third-lag. Since these are sufficient to demonstrate I have not included the plot for the fourth-lag.
+ </div>
+ </div>
+ <div id="tabs4-7" class="gallery-content ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true" style="display: none;">
+ <img src="http://d.wood.ac/img/figures/k1/k1-figure-comparisons.jpg">
+ <div class="gallery-caption"> Even though the efficiency of the OLS estimates are well researched, large tightness values do not necessarily give better estimates. However, as misspecified model (Model #2) suggests, a small shrinkage parameter could be rather dangerous when the hyperparameters are far off from the true distributions.
+ </div>
+ </div>
+ </div>
+ <script>
+   $(function() {
+     $( "#tabs4" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+     $( "#tabs4 li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+   });
+ </script>
+</div>
+
+
+<script>
+  $(function() {
+    $( "#mastertab" ).tabs().addClass( "ui-mastertab-vertical ui-helper-clearfix" );
+    $( "#mastertab li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+  });
+</script>
+
+</div>
+
+
+
+
+</main>
+
+<main class="CN hidden">
+	<div class="rowwrap" style="
+    width: 100%;
+    overflow: hidden;
+">
+<div class="bio read-more-wrap" style="
+    float: left;
+    width: 50%;
+	padding: 0 1em;
+	text-align: justify;
+">
+         <h2>联系方式</h2>
+芝加哥大学布斯商学院<br>
+南伍德罗恩大道5807号<br>
+芝加哥，伊利诺伊州 60637<br>
+    公务电话:
+    +1 773 891-6411
+    <br>
+      电子邮件:
+    dwood@uchicago.edu <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x3BF09BDE10F88BC0"><i class="material-icons">vpn_key</i></a>
+    <br>
+指纹:
+<code>3BF0 9BDE 10F8 8BC0</code>
+
+    <h2>简历</h2>
+<p>
+    吴小龙（英文名：David S. Wood）系美国芝加哥大学布斯商学院计量经济学与金融统计学方向博士生，致力于推介将现代数学及物理学方法融入计量经济学理论研究之中。其博士论文讨论光滑互动动力学下的时间序列理论。 自本科起，吴小龙在芝加哥大学学习工作整十年。 芝加哥大学“益智厚生”，意为“提升知识，以充实人生”（拉丁文原文：Crescat scientia vita excolatur）。吴小龙将其牢记于心，独立自主、另辟蹊径：在完成著名的芝大经济系博士核心课程（含一年微观、宏观及计量系列课程）及计量经济学与金融统计学专业课程后，吴小龙先后完成了芝大数学系博士核心课程（含一年分析、代数及几何系列课程）、物理系核心课程（量子场论和弦论）及多门表现学和场论方向的研讨班课程。爱因斯坦曾说过：“教育就是忘记了在学校所学的一切之后剩下的东西。” 吴小龙把芝大博士教育当成他在芝大本科博文教育（Liberal Arts）的拓展和延伸：他坚信其为高尚的智慧探索（以求辩証超越）而非培养高效智力工作者的培训。他相信作为一门年轻的学科，计量经济学能从现代数学及物理学中深化基础、汲取灵感。</p>
+
+    <p>
+        除博士论文外，吴小龙在博士期间还完成了五篇学业论文：《贝叶斯矢量自回归：明尼苏达先验的评估》、《基于聚类交易策略（获奥斯卡梅耶奖学金）》、《股票回报中时变自关联》、《杨米尔斯存在和大量差距问题》、《希尔伯特黄变换的数学基础》。他协助时间序列领域权威Ruey S. Tsay教授开发了R语言框架下时间序列及挥发性
+建模方向最全面的MTS包并联名在相关刊物发表论文推介该软件在多变量时间序列研究中的运用。在芝大本科，他在学士论文中，受诺贝尔获奖者Roger Myerson教授指教，讨论国际关系下的博弈论，并和Francesco Trebbi教授合作研究美国游说献金及党派意识.</p>
+    <p>吴小龙同时对商业及金融学科颇感兴趣。早在芝大本科，便与同学创建石油期货交易公司。在布斯商学院，吴小龙先后协助执教工商学硕士课程：
+</p><ul style="margin: 0; padding: 0; margin-left:1em;">
+    <li>《对冲基金投资》，David Small教授主教，Citadel公司总裁Kenneth Griffin、Trian公司总裁Peter May等客串﹔</li>
+    <li>《新兴市场金融及创业》，Jacopo Ponticelli教授主教﹔</li>
+    <li>《公司估价、金融及项目融资》，Anthony Marciano教授主教，总裁班﹔</li>
+    <li>《计量经济、美联储及美国财政》，Mark Wright 教授主教﹔及</li>
+<li>《企业组织与市场策略》，Amanda Sharkey教授主教。</li>
+</ul><p></p>
+
+     <p>倘若您对吴小龙的研究课题感兴趣或需要中文语言协助，请直接和他联系。吴小龙系中国公民，出生生长于人杰地灵的江西九江浔阳古都。在科研之余，他专心弹奏波洛克、古典及浪漫主义前期键盘曲目。</p>
+</div>
+<div class="bio read-more-wrap" style="
+    float: left;
+    width: 50%;
+	padding: 0 1em;
+	text-align: justify;
+">
+
+         <h2>聯系方式</h2>
+芝加哥大學布斯商學院<br>
+南伍德羅恩大道5807號<br>
+芝加哥，伊利諾伊州 60637<br>
+    公務電話: +1 773 891-6411 <br>
+      電子郵件: dwood@uchicago.edu <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x3BF09BDE10F88BC0"><i class="material-icons">vpn_key</i></a>
+    <br>
+指紋: <code>3BF0 9BDE 10F8 8BC0</code>
+
+
+    <h2>簡歷</h2>
+
+<p>
+    吳小龍（英文名：David S. Wood）系美國芝加哥大學布斯商學院計量經濟學與金融統計學方向博士生，致力於推介將現代數學及物理學方法融入計量經濟學理論研究之中。其博士論文討論光滑互動動力學下的時間序列理論。 自本科起，吳小龍在芝加哥大學學習工作整十年。 芝加哥大學“益智厚生”，意為“提升知識，以充實人生”（拉丁文原文：Crescat scientia vita excolatur）。吳小龍將其牢記於心，獨立自主、另辟蹊徑：在完成著名的芝大經濟系博士核心課程（含一年微觀、宏觀及計量系列課程）及計量經濟學與金融統計學專業課程后，吳小龍先后完成了芝大數學系博士核心課程（含一年分析、代數及幾何系列課程）、物理系核心課程（量子場論和弦論）及多門表現學和場論方向的研討班課程。愛因斯坦曾說過：“教育就是忘記了在學校所學的一切之后剩下的東西。” 吳小龍把芝大博士教育當成他在芝大本科博文教育（Liberal Arts）的拓展和延伸：他堅信其為高尚的智慧探索（以求辯証超越）而非培養高效智力工作者的培訓。他相信作為一門年輕的學科，計量經濟學能從現代數學及物理學中深化基礎、汲取靈感。</p>
+
+    <p>
+        除博士論文外，吳小龍在博士期間還完成了五篇學業論文：《貝葉斯矢量自回歸：明尼蘇達先驗的評估》、《基於聚類交易策略（獲奧斯卡梅耶獎學金）》、《股票回報中時變自關聯》、《楊米爾斯存在和大量差距問題》、《希爾伯特黃變換的數學基礎》。他協助時間序列領域權威Ruey S. Tsay教授開發了R語言框架下時間序列及揮發性
+建模方向最全面的MTS包並聯名在相關刊物發表論文推介該軟件在多變量時間序列研究中的運用。在芝大本科，他在學士論文中，受諾貝爾獲獎者Roger Myerson教授指教，討論國際關系下的博弈論，並和Francesco Trebbi教授合作研究美國游說獻金及黨派意識.</p>
+    <p>吳小龍同時對商業及金融學科頗感興趣。早在芝大本科，便與同學創建石油期貨交易公司。在布斯商學院，吳小龍先后協助執教工商學碩士課程：
+</p><ul style="margin: 0; padding: 0; margin-left:1em;">
+    <li>《對沖基金投資》，David Small教授主教，Citadel公司總裁Kenneth Griffin、Trian公司總裁Peter May等客串﹔</li>
+    <li>《新興市場金融及創業》，Jacopo Ponticelli教授主教﹔</li>
+    <li>《公司估價、金融及項目融資》，Anthony Marciano教授主教，總裁班﹔</li>
+    <li>《計量經濟、美聯儲及美國財政》，Mark Wright 教授主教﹔及</li>
+<li>《企業組織與市場策略》，Amanda Sharkey教授主教。</li>
+</ul><p></p>
+
+     <p>倘若您對吳小龍的研究課題感興趣或需要中文語言協助，請直接和他聯系。吳小龍系中國公民，出生生長於人杰地靈的江西九江潯陽古都。在科研之余，他專心彈奏波洛克、古典及浪漫主義前期鍵盤曲目。</p>
+
+</div></main>
+
+<footer>
+
+
+<div id="footer-wrap">
+
+
+(c)2017 David S. Wood
+</div>
+</footer>
+
+
+
+<script src="./particles.js"></script>
+<script src="./app.js"></script>
+
+
+</body></html>
