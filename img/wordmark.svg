@@ -5,25 +5,27 @@
 <style type="text/css">
 	.st0{fill:#0000CC;}
 	.st1{font-family:'HelveticaNeue-Bold';}
-	.st2{font-size:18px;}
+	.st2{font-size:14.948px;}
 	.st3{font-family:'SnellRoundhand-Bold';}
+	.st4{font-size:14.8813px;}
+	.st5{font-size:18px;}
 </style>
 <g>
-	<path class="st0" d="M-173,397.4c-2-0.1-4.1-0.1-6.1-0.2v-0.1c2-0.1,4.1-0.2,6.1-0.2c2-0.1,4.1-0.1,6.1-0.2v0.8
-		C-169,397.6-171,397.5-173,397.4z"/>
-	<path class="st0" d="M-160.7,397.7c-2,0-4.1-0.1-6.1-0.1v-0.8c2,0,4.1-0.1,6.1-0.1s4.1-0.1,6.1-0.1v1.2
-		C-156.7,397.8-158.7,397.8-160.7,397.7z"/>
-	<path class="st0" d="M-154.7,397.8v-1.2h12.2v1.2H-154.7z"/>
-	<path class="st0" d="M-142.5,397.8v-1.2h12.2v1.2H-142.5z"/>
-	<path class="st0" d="M-130.2,397.8v-1.2h12.2v1.2H-130.2z"/>
-	<path class="st0" d="M-118,397.8v-1.2h12.2v1.2H-118z"/>
-	<path class="st0" d="M-105.7,397.8v-1.2h12.2v1.2H-105.7z"/>
-	<path class="st0" d="M-87.4,397.7c-2,0-4.1,0.1-6.1,0.1v-1.2c2,0,4.1,0,6.1,0.1c2,0,4.1,0.1,6.1,0.1v0.8
-		C-83.3,397.6-85.3,397.7-87.4,397.7z"/>
-	<path class="st0" d="M-75,397.4c-2,0.1-4.1,0.1-6.1,0.2v-0.8c2,0.1,4.1,0.1,6.1,0.2s4.1,0.1,6.1,0.2v0.1
-		C-71,397.3-73,397.4-75,397.4z"/>
+	<path class="st0" d="M-182,401.3c-2-0.1-4.1-0.1-6.1-0.2V401c2-0.1,4.1-0.2,6.1-0.2c2-0.1,4.1-0.1,6.1-0.2v0.8
+		C-178,401.5-180,401.4-182,401.3z"/>
+	<path class="st0" d="M-169.7,401.6c-2,0-4.1-0.1-6.1-0.1v-0.8c2,0,4.1-0.1,6.1-0.1s4.1-0.1,6.1-0.1v1.2
+		C-165.7,401.7-167.7,401.7-169.7,401.6z"/>
+	<path class="st0" d="M-163.7,401.7v-1.2h12.2v1.2H-163.7z"/>
+	<path class="st0" d="M-151.5,401.7v-1.2h12.2v1.2H-151.5z"/>
+	<path class="st0" d="M-139.2,401.7v-1.2h12.2v1.2H-139.2z"/>
+	<path class="st0" d="M-127,401.7v-1.2h12.2v1.2H-127z"/>
+	<path class="st0" d="M-114.7,401.7v-1.2h12.2v1.2H-114.7z"/>
+	<path class="st0" d="M-96.4,401.6c-2,0-4.1,0.1-6.1,0.1v-1.2c2,0,4.1,0,6.1,0.1c2,0,4.1,0.1,6.1,0.1v0.8
+		C-92.3,401.5-94.3,401.6-96.4,401.6z"/>
+	<path class="st0" d="M-84,401.3c-2,0.1-4.1,0.1-6.1,0.2v-0.8c2,0.1,4.1,0.1,6.1,0.2s4.1,0.1,6.1,0.2v0.1
+		C-80,401.2-82,401.3-84,401.3z"/>
 </g>
-<text transform="matrix(1 0 0 1 -229.8182 388.7142)" class="st0 st1 st2">W e i m i n </text>
-<text transform="matrix(1 0 0 1 -231.792 416.1194)" class="st0 st3 st2">Universitat Autònoma de Barcelona</text>
-<text transform="matrix(1 0 0 1 -73.5684 388.214)" class="st0 st1 st2">Z h o u</text>
+<text transform="matrix(1.2042 0 0 1 -215.8087 385.0214)" class="st0 st1 st2">W e i m i n </text>
+<text transform="matrix(0.7573 0 0 1 -212.8086 416.6616)" class="st0 st3 st4">Universitat Autònoma de Barcelona</text>
+<text transform="matrix(1 0 0 1 -97.0108 386.7718)" class="st0 st1 st5">Z h o u</text>
 </svg>
