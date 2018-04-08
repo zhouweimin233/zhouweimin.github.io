@@ -1,0 +1,145 @@
+.paper-abstract {
+    font-size: 13pt;
+    line-height: 1.2;
+    /* font-size: 1.05em; */
+    float: left;
+    width: 33.3%;
+}
+
+h4 {
+    font-size: 20pt;
+}
+
+div#tabs {
+    /* border-bottom: 1px solid #aaa; */
+    display: table;
+    overflow: hidden;
+    /* line-height: 1.12; */
+}
+
+.innertab{
+    padding: 0 1em;
+    float: right;
+    width: 66%;
+    overflow: hidden;
+}
+
+div#mastertab {
+    overflow: hidden;
+    padding: 1em;
+    padding-top: 0em;
+    padding-bottom: 1em;
+    margin-bottom: 6em;
+    font-size: 12pt;
+    margin-top: 3em;
+    min-height: 680px;
+    position: relative;
+    background: white;
+    font-size: .9em;
+}
+
+li a {
+    border: none;
+}
+
+div#tabs p {
+    margin:0px;
+}
+#mastertab >ul.gallery-index li{
+    width: 19%;
+    float: left;
+    font-weight: bold;
+    position: relative;
+    margin-right: 1%;
+    padding: 0;
+    line-height: 1.2;
+    padding-bottom: .5em;
+    border-bottom: 2px solid #ccc;
+}
+
+#mastertab >ul.gallery-index li a{}
+
+
+
+#mastertab >ul.gallery-index li.ui-tabs-active{
+    /* border: 1px solid #ccc; */
+    border-bottom: 2px solid #009EDB;
+}
+
+#mastertab >ul.gallery-index {
+    width: 100%;
+    border: none;
+}
+
+.gallery-content {
+    margin-top: .3rem;
+    line-height: 1.15;
+}
+
+ul.gallery-index {
+    list-style: decimal inside;
+    margin: 0px;
+    float: right;
+    width: 50%;
+    padding: 0;
+}
+
+ul.gallery-index li {
+    /* margin: .2rem 0; */
+    border: 2px solid transparent;
+    border-top-color: transparent;
+    list-style-type: none;
+    /* border-right: 4px solid transparent; */
+    /* line-height: 1.15; */
+    /* background: rgba(0,0,0, .075); */
+    /* border-bottom: 1px solid #ddd; */
+}
+
+ul.gallery-index li a{
+    text-decoration: none;
+}
+
+ul.gallery-index li:hover{
+    color: #000;
+}
+
+ul.gallery-index li a:hover{
+    color: inherit;
+}
+
+
+li.ui-state-default.ui-corner-left.ui-tabs-active.ui-state-active {
+}
+
+
+li.ui-tabs-active.ui-state-active a{
+    color: #009EDB;
+}
+
+.gallery-content > img{
+    width: 50%;
+    display: block;
+    float:left;
+}
+
+.gallery-content>img {
+    box-shadow: none;
+    border: none;
+    width: 50%;
+    padding: 0;
+    /* -webkit-filter: grayscale(.5); */
+    /* float: right; */
+    /* border: 1px solid #aaa; */
+    margin: 0;
+    margin-top: -10%;
+    /* margin-bottom: -10%; */
+}
+
+.gallery-caption {
+    clear: both;
+    width: 29%;
+    top: 34em;
+    position: absolute;
+    background: white;
+    color: #999;
+}
