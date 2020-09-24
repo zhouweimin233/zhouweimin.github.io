@@ -79,12 +79,12 @@ a:hover {
 	/*margin-bottom: 10px;*/
 	padding: 24px 24px 47px;
 	border-image: none;
-	width: 650px;
+	width: 750px;
 	clear: both;
 	position: relative;
 }
 .infoSection {
-	width: 500px;
+	width: 600px;
 	clear: left;
 	margin-top: 20px;
 	margin-bottom: 0px;
@@ -115,8 +115,8 @@ a:hover {
 	display: inline;
 }
 #pictureSection {
-	right: 0px;
-	margin-top: 80px;
+	right: -10px;
+	margin-top: 40px;
 	position: absolute;
 }
 #pagination {
