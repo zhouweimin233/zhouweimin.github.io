@@ -1,12 +1,11 @@
 .strong {
-  color: rgb(128, 0, 0);
+  font-weight:bold;
 }
 body {
 	/*font-family: 'Open Sans', sans-serif;*/
 	/*font-family: 'Roboto Mono', monospace;*/
 	font-size: 20px;
-	/*font-family: 'Roboto', sans-serif;*/
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	/*font-family: 'Montserrat', sans-serif;*/
 	background: rgb(255, 255, 255);
 	margin: 0px auto;
@@ -79,15 +78,15 @@ a:hover {
 	/*margin-bottom: 10px;*/
 	padding: 24px 24px 47px;
 	border-image: none;
-	width: 650px;
+	width: 800px;
 	clear: both;
 	position: relative;
 }
 .infoSection {
-	width: 500px;
+	width: 950px;
 	clear: left;
 	margin-top: 20px;
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 	float: left;
 }
 .infoSection strong {
@@ -116,7 +115,7 @@ a:hover {
 }
 #pictureSection {
 	right: 0px;
-	margin-top: 80px;
+	margin-top: 40px;
 	position: absolute;
 }
 #pagination {
@@ -181,13 +180,11 @@ a:hover {
 	display: block;
 }
 h1 {
-	font-size: 25px;
-	line-height: 25px;
+	font-size: 17px;
+	line-height: 22px;
 	font-style: normal;
-	font-weight: normal;
-	/*font-weight: 550;*/
-	margin-bottom: 12px;
-	margin-top: 12px;
+	font-weight: 550;
+	margin-bottom: 36px;
 }
 h2 {
 	font-size: 15px;
@@ -273,11 +270,9 @@ button {
 	font-size: 25px;
 }
 #infoHeader p {
-	line-height: 24px;
-	font-size: 17px;
-	margin-bottom: 0px;
+	line-height: 30px;
+	font-size: 25px;
 }
-
 #projectNavigation a {
 	text-align: right;
 	font-size: 12px;
@@ -357,12 +352,3 @@ aside.postMeta {
 	-moz-transition-duration: 0s;
 	-o-transition-duration: 0s;
 }
-
-/* LIST #2 */
-#list2 { width:800px; }
-#list2 ol { font-family:'Open Sans', sans-serif; font-size:18px; color:#020202;  }
-#list2 ol { font-size:24px; color:#020202;  }
-#list2 ol li { }
-/*#list2 ol li p { padding:8px; font-style:normal; font-family:'Open Sans', sans-serif; font-size:18px; color:#020202; border-left: 1px solid #999; }*/
-#list2 ol li p { padding:8px; font-style:normal; font-family:'Open Sans', sans-serif; font-size:18px; color:#020202; border-left: 2px solid rgb(200, 149, 149); }
-#list2 ol li p span { display:block; }
